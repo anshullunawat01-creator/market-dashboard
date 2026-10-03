@@ -20,7 +20,7 @@ FEEDS = {
         "Economic Times": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
         "Moneycontrol": "https://www.moneycontrol.com/rss/marketreports.xml",
         "Mint": "https://www.livemint.com/rss/markets",
-        "Business Standard": "https://www.business-standard.com/rss/markets-106.rss","NDTV Profit": "https://news.google.com/rss/search?q=site:ndtvprofit.com+economy&hl=en-IN&gl=IN&ceid=IN:en","Finshots Markets": "https://finshots.in/markets/rss/","Zerodha Pulse": "https://pulse.zerodha.com/feed.php","Financial Express": "https://www.financialexpress.com/market/feed/",
+        "Business Standard": "https://www.business-standard.com/rss/markets-106.rss","NDTV Profit": "https://news.google.com/rss/search?q=site:ndtvprofit.com+economy&hl=en-IN&gl=IN&ceid=IN:en","Finshots Markets": "https://finshots.in/markets/rss/","Zerodha Pulse": "https://pulse.zerodha.com/feed.php",
         "BusinessLine": "https://www.thehindubusinessline.com/markets/feeder/default.rss",
     },
     "Global": {
