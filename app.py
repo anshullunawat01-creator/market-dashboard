@@ -20,13 +20,20 @@ FEEDS = {
         "Economic Times": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
         "Moneycontrol": "https://www.moneycontrol.com/rss/marketreports.xml",
         "Mint": "https://www.livemint.com/rss/markets",
-        "Business Standard": "https://www.business-standard.com/rss/markets-106.rss","NDTV Profit": "https://news.google.com/rss/search?q=site:ndtvprofit.com+economy&hl=en-IN&gl=IN&ceid=IN:en",
+        "Business Standard": "https://www.business-standard.com/rss/markets-106.rss","NDTV Profit": "https://news.google.com/rss/search?q=site:ndtvprofit.com+economy&hl=en-IN&gl=IN&ceid=IN:en","Finshots Markets": "https://finshots.in/markets/rss/","Zerodha Pulse": "https://pulse.zerodha.com/feed.php","Financial Express": "https://www.financialexpress.com/market/feed/",
+        "BusinessLine": "https://www.thehindubusinessline.com/markets/feeder/default.rss",
     },
     "Global": {
         "CNBC": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
         "Yahoo Finance": "https://finance.yahoo.com/news/rssindex",
         "MarketWatch": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
-        "BBC Business": "https://feeds.bbci.co.uk/news/business/rss.xml","Bloomberg": "https://feeds.bloomberg.com/markets/news.rss","Bloomberg": "https://news.google.com/rss/search?q=site:bloomberg.com+markets&hl=en&gl=US&ceid=US:en",
+        "BBC Business": "https://feeds.bbci.co.uk/news/business/rss.xml","Bloomberg": "https://feeds.bloomberg.com/markets/news.rss","Bloomberg": "https://news.google.com/rss/search?q=site:bloomberg.com+markets&hl=en&gl=US&ceid=US:en", "WSJ Markets": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "Financial Times": "https://www.ft.com/rss/home",
+        "The Economist (Finance)": "https://www.economist.com/finance-and-economics/rss.xml",
+        "Investing.com": "https://www.investing.com/rss/news.rss",
+        "Seeking Alpha": "https://seekingalpha.com/market_currents.xml",
+        "Nikkei Asia": "https://asia.nikkei.com/rss/feed/nar",
+        "BBC Business": "https://feeds.bbci.co.uk/news/business/rss.xml",
     },
 }
 
